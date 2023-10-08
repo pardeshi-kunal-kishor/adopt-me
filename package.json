@@ -1,0 +1,15 @@
+{
+  "name": "adopt-me",
+  "version": "8.0.0",
+  "description": "Complete Intro to React v8 project",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"./src/**/*.{js,jsx}\""
+  },
+  "keywords": [],
+  "author": "Brian Holt",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
+}
